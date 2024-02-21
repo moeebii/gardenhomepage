@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!isPaused) {
             const lastLetter = garden.lastChild && garden.lastChild.textContent;
             if (lastLetter === 'T') {
-                window.location.href = 'https://www.amazon.com';
+                window.location.href = 'https://moeebii.github.io/realtext/';
             } else {
                 window.location.href = 'https://moeebii.github.io/gardenjumble/';
             }
